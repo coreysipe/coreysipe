@@ -11,6 +11,7 @@ Some of my interests are:
 Projects I am looking forward to starting on my own time:
   - Harry Potter sorting hat program
   - Dungeons & Dragons character creation application
+  - Text adventure RPG game (though overdone, this one is more for my own fun)
   - Fake company/university website (to practice my skills)
   - Website incorporating all my fun applications via a home page that leads to other pages.
 
