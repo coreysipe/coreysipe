@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my profile! 👋
 
-<!--
-**coreysipe/coreysipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior majoring in Computer Information Systems and minoring in Data Analytics at Stetson University.
 
-Here are some ideas to get you started:
+Some of my interests are:
+  - Web application development (I like frontend more but generally enjoy both as a whole)
+  - Software development (recent project: mobile app with route optimization and safety features (SOS button) for home healthcare workers)
+  - Video & card games
+  - Playing & listening to music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects I am looking forward to starting on my own time:
+  - Harry Potter sorting hat program
+  - Dungeons & Dragons character creation application
+  - Fake company/university website (to practice my skills)
+  - Website incorporating all my fun applications via a home page that leads to other pages.
+
+If you have any ideas you think would be cool to see, let me know!
