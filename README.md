@@ -8,10 +8,6 @@ Some of my interests are:
   - Video & card games
   - Playing & listening to music
 
-Projects I am looking forward to starting on my own time:
-  - Harry Potter sorting hat program (In progress)
-  - Dungeons & Dragons character creation application
-  - Text adventure RPG game
-  - Fake company/university website 
+I graduate May 2025 and look forward to becoming a Web Developer! 
 
-If you have any ideas you think would be cool to see, let me know!
+Why create something if you're not proud of your creation?
